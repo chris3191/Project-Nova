@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="QRCode2" size="0.150000 0.150794" />
     <ImageTarget name="low_resolution_image" size="0.150000 0.150000" />
     <ImageTarget name="HaumeaX7" size="0.150000 0.080678" />
     <ImageTarget name="HaumeaX3" size="0.150000 0.081151" />
